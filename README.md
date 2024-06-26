@@ -20,12 +20,6 @@ The dataset consists of:
 3. **Modeling**: Utilizing an XGBoost classifier with hyperparameter tuning to predict tweet labels.
 4. **Evaluation**: Performance assessed using the F1 score on a validation set.
 
-## Repository Structure
-
-- **`data/`**: Folder containing the dataset files.
-- **`notebooks/`**: Jupyter notebooks for data exploration, preprocessing, modeling, and evaluation.
-- **`scripts/`**: Python scripts for preprocessing, modeling, and submission generation.
-- **`README.md`**: Detailed documentation including setup instructions, methodology, and results.
 
 ## Usage
 
